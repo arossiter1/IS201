@@ -1,0 +1,102 @@
+.common{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+ol {
+    list-style-position:inside;
+    padding:10px;
+}
+
+ul {
+    
+    text-align:left;
+    padding:10px;
+    margin-left: 35%;
+    
+}
+
+.colors {
+ 
+    background:burlywood;
+    border-radius: 25px;
+   
+}
+
+.foods {
+    
+    background:burlywood;
+    border-radius: 25px;
+}
+
+.places {
+   
+    background:burlywood;
+    border-radius:25px;
+}
+
+.center{
+    margin:auto;
+    width:30%;
+    border:3px;
+    padding:10px;
+    text-align:center;
+}
+img {
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width:30%;
+}
+
+footer{
+    background-color:rgb(215, 167, 105);
+    bottom: 0px;
+    right: 0px;
+    left: 0px; 
+    padding: 20px;
+}
+
+footer a {
+    color:black;
+    font-size:16px;
+    text-decoration:none;
+    padding: 10px 13px;
+
+
+}
+
+footer a:hover{
+    background-color:burlywood;
+
+}
+.tableau-center{
+    width:800px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+nav{
+    background-color:rgb(215, 167, 105);
+    padding:20px;
+    overflow:hidden;
+
+    
+}
+
+nav a {
+    color:black;
+    padding:10px 13px;
+    text-decoration:none;
+    font-size: 16px;
+    font-weight:bold;
+
+}
+
+nav a:hover{
+    background-color:burlywood;
+
+}
